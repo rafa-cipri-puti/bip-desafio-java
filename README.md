@@ -1,6 +1,6 @@
 # Desafio Técnico - Java Backend (Senior)
 
-Bem-vindo(a)! Este é o desafio técnico para candidatos a vaga **Pessoa Desenvolvedora - Full stack - Java e Angular**.
+Bem-vindo(a)! Este é o desafio técnico para candidatos a vaga **Senior Java Backend Developer**.
 O objetivo é avaliar sua capacidade de **desenhar, implementar e testar APIs REST** com boas práticas de engenharia.
 
 ---
