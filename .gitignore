@@ -1,0 +1,11 @@
+# Ignora arquivos e pastas gerados pelo build do Maven/Java
+/target/
+*.class
+
+# Ignora arquivos de configuração do IDE
+/.idea/
+*.iml
+/.vscode/
+
+# Ignora arquivos de sistema
+.DS_Store
